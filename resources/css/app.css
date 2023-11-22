@@ -1,0 +1,14 @@
+
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+.background-image{
+    background-image: url(https://media.istockphoto.com/id/1410007957/pl/zdj%C4%99cie/cz%C5%82owiek-pracuj%C4%85cy-na-laptopie.jpg?s=612x612&w=is&k=20&c=ElVPbbr1iJYa-zPL6vOogIyssmJQh8aWjcqCbz2qfoo=);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 600px;
+}
+
